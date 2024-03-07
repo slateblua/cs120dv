@@ -17,13 +17,6 @@ public class JPlotter extends JFrame {
     }
 
     public void plot() {
-        // Hell knows how we're going to implement this
-        // Tho we have a 700 pages book that talks about
-        // implementing it,
-        // Grammar of Graphics, we'll gonna also mention
-        // it somewhere in README.md
-        // Does anyone of TA's know how to configure
-        // publishing to Maven Central and why did
-        // they make it so complicated aaaaaaaaaaaa
+
     }
 }
