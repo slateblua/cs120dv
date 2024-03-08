@@ -1,7 +1,7 @@
 # cs120dv
 
 ```kotlin
-// TODO("Configure publishing to Maven Central") 
+TODO("Configure publishing to Maven Central") 
 ```
 ### Maven
 
@@ -12,6 +12,8 @@
     <version>0.0.1</version>
 </dependency>
 ```
+### Gradle
+
 ```kotlin
 dependencies {
     implementation("com.slateblua:cs120dv:0.0.1")
