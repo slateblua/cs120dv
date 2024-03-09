@@ -7,6 +7,9 @@ import javax.swing.*;
 
 public class JPlotter extends JFrame implements Exportable {
 
+    // Most probably the superclass should be changed to JComponent or JPanel
+    // We will see
+
     public static final int FRAME_WIDTH = 300;
     public static final int FRAME_HEIGHT = 300;
 
